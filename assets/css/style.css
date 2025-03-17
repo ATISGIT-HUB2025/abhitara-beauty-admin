@@ -2728,8 +2728,8 @@ fieldset:disabled a.btn {
 }
 .btn-primary {
   color: #fff;
-  background-color: #ca994a;
-  border-color: #ca994a;
+  background-color: #a61662;
+  border-color: #a61662;
 }
 .btn-primary:hover {
   color: #fff;
@@ -2743,15 +2743,15 @@ fieldset:disabled a.btn {
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #fff;
-  background-color: #ca994a;
-  border-color: #ca994a;
+  background-color: #a61662;
+  border-color: #a61662;
 }
 .btn-primary:not(:disabled):not(.disabled).active,
 .btn-primary:not(:disabled):not(.disabled):active,
 .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #ca994a;
-  border-color: #ca994a;
+  background-color: #a61662;
+  border-color: #a61662;
 }
 .btn-primary:not(:disabled):not(.disabled).active:focus,
 .btn-primary:not(:disabled):not(.disabled):active:focus,
@@ -4917,8 +4917,8 @@ input[type="submit"].btn-block {
 .page-item.active .page-link {
   z-index: 1;
   color: #fff;
-  background-color: #ca994a;
-  border-color: #ca994a;
+  background-color: #a61662;
+  border-color: #a61662;
 }
 .page-item.disabled .page-link {
   color: #6c757d;
@@ -13722,7 +13722,7 @@ ol.breadcrumb {
   }
 }
 .top-bar .navbar .navbar-header {
-  background: #2c2e3e;
+  background: #000;
   width: 240px;
   -webkit-flex-shrink: 0;
   -ms-flex-negative: 0;
@@ -13737,7 +13737,7 @@ ol.breadcrumb {
 }
 .top-bar .navbar .navbar-header .logo-desktop {
   width: 60px;
-  height: 60px;
+  height: 50px;
   visibility: visible;
   opacity: 1;
   position: relative;
@@ -14652,7 +14652,7 @@ ol.breadcrumb {
   -ms-flex-preferred-size: auto !important;
   flex-basis: auto !important;
   margin-bottom: auto;
-  background: #2c2e3e;
+  background: #000;
   height: 100%;
   overflow: hidden;
 }
@@ -14712,7 +14712,8 @@ ol.breadcrumb {
   color: #fff !important;
 }
 .app-navbar .sidebar-nav ul.metismenu li.active ul li.active a {
-  color: #ca994a !important;
+  color: #a61662 !important;
+  font-weight: bold;
 }
 .app-navbar .sidebar-nav ul.metismenu li.active ul li.active a:focus,
 .app-navbar .sidebar-nav ul.metismenu li.active ul li.active a:hover {
@@ -14751,7 +14752,7 @@ ol.breadcrumb {
   -webkit-transform: rotate(225deg) translateY(-50%);
 }
 .app-navbar .sidebar-nav ul.metismenu li ul {
-  background: #2c2e3e;
+  background: #000;
 }
 .app-navbar .sidebar-nav ul.metismenu li ul li a {
   padding: 0.6rem 2rem;
@@ -15962,23 +15963,23 @@ code {
   padding: 0.6rem 1.4rem;
 }
 .btn-primary {
-  background-color: #ca994a;
+  background-color: #a61662;
   color: #fff;
-  border-color: #ca994a;
+  border-color: #a61662;
 }
 .btn-primary:hover {
   background-color: #000;
   border-color: #004085;
 }
 .btn-primary:focus {
-  background-color: #ca994a;
-  border-color: #ca994a;
+  background-color: #a61662;
+  border-color: #a61662;
   box-shadow: none;
   color: #fff;
 }
 .btn-primary:active {
-  background-color: #ca994a;
-  border-color: #ca994a;
+  background-color: #a61662;
+  border-color: #a61662;
 }
 .btn-primary:not(:disabled):not(.disabled):active {
   background-color: #7630e4;
@@ -17481,8 +17482,8 @@ code {
   color: #8e54e9;
 }
 .page-item.active .page-link {
-  background-color: #ca994a;
-  border-color: #ca994a;
+  background-color: #a61662;
+  border-color: #a61662;
 }
 .checkbox.checbox-switch {
   padding-left: 0;

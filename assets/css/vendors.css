@@ -1,11 +1,4 @@
-/*!
-* metismenu - v2.7.9
-* A jQuery menu plugin
-* https://github.com/onokumus/metismenu#readme
-*
-* Made by Osman Nuri Okumus <onokumus@gmail.com> (https://github.com/onokumus)
-* Under MIT License 
-*/
+
 .metismenu .arrow {
   float: right;
   line-height: 1.42857;
@@ -2727,7 +2720,7 @@ table.dataTable thead > tr > th.sorting_asc,
 table.dataTable thead > tr > th.sorting_desc {
   padding-right: 30px;
   color: #fff;
-  background: #2c2e3e;
+  background: #a61662;
 }
 table.dataTable thead > tr > td:active,
 table.dataTable thead > tr > th:active {
@@ -3413,7 +3406,7 @@ a.fc-more:hover {
   background: #eee;
 }
 .fc-unthemed td.fc-today {
-  background: #2c2e3e;
+  background: #a61662;
   color: #fff;
   font-weight: bold;
 }
